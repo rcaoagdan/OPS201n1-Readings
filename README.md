@@ -1,2 +1,3 @@
 ## Summary of my readings from my OPS and CyberSecurity can be found below. 
-[Ops Readings Table of Contents](https://github.com/rcaoagdan/OPS201n1-Readings/wiki)
+[Ops 201 Readings](https://github.com/rcaoagdan/OPS-Readings-201/wiki/OPS-201)
+[Ops 301 Readings](https://github.com/rcaoagdan/OPS-Readings-301/wiki/OPS-301)
